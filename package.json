@@ -1,6 +1,6 @@
 {
   "name": "digital-vaccination-wallet-reader",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simple package to decode qr codes from vaccination certificates",
   "dependencies": {
     "@fidm/x509": "^1.2.1",
