@@ -1,5 +1,5 @@
 {
-  "devDependencies": {
+  "dependencies": {
     "@fidm/x509": "^1.2.1",
     "base45-js": "^1.0.1",
     "buffer": "^6.0.3",
