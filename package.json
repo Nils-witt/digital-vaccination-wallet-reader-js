@@ -8,7 +8,7 @@
     "base45-js": "^1.0.1",
     "buffer": "^6.0.3",
     "cbor": "^7.0.5",
-    "cose-js": "^0.6.0",
+    "cose-js": "^0.7.0",
     "pako": "^2.0.3",
     "sha256-uint8array": "^0.10.1",
     "typescript": "^4.3.4"
